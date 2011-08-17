@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">Bloc de Notas v3</string>
+    <string name="no_notes">Sin Notas</string>
+    <string name="menu_insert">Crear Nota</string>
+    <string name="menu_delete">Borrar Nota</string>
+    <string name="title">Título</string>
+    <string name="body">Contenido</string>
+    <string name="confirm">Confirmar</string>
+    <string name="edit_note">Editar Nota</string> 
+</resources>
